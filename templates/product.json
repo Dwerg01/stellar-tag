@@ -248,6 +248,41 @@
               },
               "blocks": {}
             },
+            "file_upload_qfdRnY": {
+              "type": "file-upload",
+              "name": "t:names.file_upload",
+              "settings": {
+                "label": "Upload Image for Engraving",
+                "property_key": "engraving_image"
+              },
+              "blocks": {}
+            },
+            "text_GNzddg": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>We use high-precision UV printing technology to permanently fuse your logo onto each tag. Every time your client picks up their keys, your brand is seen again.<br/><br/>This transforms a logistics tool into a long-term brand touchpoint.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "accordion_MkACed": {
               "type": "accordion",
               "name": "t:names.accordion",
@@ -438,6 +473,8 @@
             "variant_picker_R3rGDr",
             "buy_buttons_eYQEYi",
             "text_aEtTtq",
+            "file_upload_qfdRnY",
+            "text_GNzddg",
             "accordion_MkACed"
           ]
         }
