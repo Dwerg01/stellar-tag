@@ -338,5 +338,12 @@
       "default_title": "Standaardtitel",
       "sticky_add_to_cart": "Balk voor snel toevoegen aan winkelwagen"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "split_delivery": {
+        "items_for_shipping": "Artikelen voor verzending"
+      }
+    }
   }
 }
