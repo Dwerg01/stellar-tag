@@ -1116,9 +1116,7 @@
       "block_order": [
         "forms_inline_b9h6hp"
       ],
-      "custom_css": [
-        ".mobile-column {width: 800px;}"
-      ],
+      "custom_css": [],
       "settings": {
         "content_direction": "column",
         "vertical_on_mobile": true,
