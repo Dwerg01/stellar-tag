@@ -711,7 +711,7 @@
                 "background_color": "#00000026",
                 "corner_radius": 0,
                 "padding-block-start": 0,
-                "padding-block-end": 0,
+                "padding-block-end": 48,
                 "padding-inline-start": 0,
                 "padding-inline-end": 0
               },
@@ -809,7 +809,7 @@
                 "background_color": "#00000026",
                 "corner_radius": 0,
                 "padding-block-start": 0,
-                "padding-block-end": 0,
+                "padding-block-end": 48,
                 "padding-inline-start": 0,
                 "padding-inline-end": 0
               },
@@ -907,7 +907,7 @@
                 "background_color": "#00000026",
                 "corner_radius": 0,
                 "padding-block-start": 0,
-                "padding-block-end": 0,
+                "padding-block-end": 48,
                 "padding-inline-start": 0,
                 "padding-inline-end": 0
               },
@@ -963,7 +963,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<p>Zero Infrastructure Required</p>",
+                "text": "<p>Zero Infrastructure</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -1005,7 +1005,7 @@
                 "background_color": "#00000026",
                 "corner_radius": 0,
                 "padding-block-start": 0,
-                "padding-block-end": 0,
+                "padding-block-end": 48,
                 "padding-inline-start": 0,
                 "padding-inline-end": 0
               },
@@ -1049,8 +1049,8 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
-        "padding-block-start": 48,
-        "padding-block-end": 48
+        "padding-block-start": 100,
+        "padding-block-end": 100
       }
     }
   },
