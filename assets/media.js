@@ -22,6 +22,12 @@ class DeferredMedia extends Component {
     // If we're to use deferred media for images, we will need to run this only when it's not an image type media
     document.addEventListener(ThemeEvents.mediaStartedPlaying, this.pauseMedia.bind(this), { signal });
     window.addEventListener(DialogCloseEvent.eventName, this.pauseMedia.bind(this), { signal });
+
+    // automatically start and mark playing if the element is configured to autoplay
+    if (this.hasAttribute('autoplay')) {
+      // if we previously appended the media (via template or server markup) mark the button as playing
+      this.showDeferredMedia();
+    }
   }
 
   disconnectedCallback() {
@@ -51,6 +57,9 @@ class DeferredMedia extends Component {
     this.loadContent(true);
     this.isPlaying = true;
     this.updatePlayPauseHint(this.isPlaying);
+
+    // ensure the poster button gets the playing state class even when loadContent returned early
+    this.refs.deferredMediaPlayButton?.classList.add('deferred-media__playing');
   };
 
   /**

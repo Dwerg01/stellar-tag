@@ -21,12 +21,12 @@
             "image_gap": 4,
             "large_first_image": true,
             "icons_style": "none",
-            "slideshow_controls_style": "counter",
+            "slideshow_controls_style": "dots",
             "slideshow_mobile_controls_style": "dots",
             "thumbnail_position": "right",
             "thumbnail_width": 44,
             "thumbnail_radius": 0,
-            "aspect_ratio": "adapt",
+            "aspect_ratio": "1",
             "constrain_to_viewport": true,
             "media_fit": "contain",
             "media_radius": 0,
@@ -34,10 +34,10 @@
             "zoom": true,
             "video_loop": true,
             "hide_variants": true,
-            "padding-block-start": 0,
+            "padding-block-start": 64,
             "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
+            "padding-inline-start": 100,
+            "padding-inline-end": 60
           },
           "blocks": {}
         },
@@ -248,6 +248,32 @@
               },
               "blocks": {}
             },
+            "text_GNzddg": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>We use high-precision UV printing technology to permanently fuse your logo onto each tag. Every time your client picks up their keys, your brand is seen again.<br/><br/>This transforms a logistics tool into a long-term brand touchpoint.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "accordion_MkACed": {
               "type": "accordion",
               "name": "t:names.accordion",
@@ -438,6 +464,7 @@
             "variant_picker_R3rGDr",
             "buy_buttons_eYQEYi",
             "text_aEtTtq",
+            "text_GNzddg",
             "accordion_MkACed"
           ]
         }
@@ -447,7 +474,7 @@
         "desktop_media_position": "left",
         "equal_columns": false,
         "limit_details_width": false,
-        "gap": 48,
+        "gap": 0,
         "enable_sticky_add_to_cart": true,
         "color_scheme": "",
         "padding-block-start": 0,
