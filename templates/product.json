@@ -37,7 +37,7 @@
             "padding-block-start": 64,
             "padding-block-end": 0,
             "padding-inline-start": 100,
-            "padding-inline-end": 100
+            "padding-inline-end": 60
           },
           "blocks": {}
         },
@@ -245,15 +245,6 @@
                 "padding-block-end": 0,
                 "padding-inline-start": 0,
                 "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "file_upload_qfdRnY": {
-              "type": "file-upload",
-              "name": "t:names.file_upload",
-              "settings": {
-                "label": "Upload Image for Engraving",
-                "property_key": "engraving_image"
               },
               "blocks": {}
             },
@@ -473,7 +464,6 @@
             "variant_picker_R3rGDr",
             "buy_buttons_eYQEYi",
             "text_aEtTtq",
-            "file_upload_qfdRnY",
             "text_GNzddg",
             "accordion_MkACed"
           ]
