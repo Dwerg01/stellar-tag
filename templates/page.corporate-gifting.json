@@ -1117,7 +1117,7 @@
         "forms_inline_b9h6hp"
       ],
       "custom_css": [
-        "span {color: black !important;}"
+        ".shopify-app-block {width: 800px !important;}"
       ],
       "settings": {
         "content_direction": "row",
