@@ -890,7 +890,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Plug-and-play setup</h2>",
+                "text": "<h5>Plug-and-play setup</h5>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
