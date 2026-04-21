@@ -530,6 +530,10 @@
         "text_fQKgtV",
         "accordion_UPt9ag"
       ],
+      "custom_css": [
+        ".accordion {max-width: 920px; margin: 0 auto;}",
+        " details div rte-formatter p {padding: 0 20px;}"
+      ],
       "name": "t:names.faq_section",
       "settings": {
         "content_direction": "row",
