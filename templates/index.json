@@ -847,7 +847,7 @@
             "horizontal_alignment_flex_direction_column": "center",
             "vertical_alignment_flex_direction_column": "flex-start",
             "gap": 8,
-            "width": "fill",
+            "width": "fit-content",
             "custom_width": 100,
             "width_mobile": "fill",
             "custom_width_mobile": 100,
@@ -950,13 +950,14 @@
         "group_EjMEHw"
       ],
       "custom_css": [
-        "svg {fill: #0a3161; stroke: #0a3161; stroke-width: 0.25px;}"
+        "svg {fill: #0a3161; stroke: #0a3161; stroke-width: 0.25px;}",
+        ".h4 {text-decoration: underline solid red;}"
       ],
       "name": "t:names.multicolumn",
       "settings": {
         "content_direction": "row",
         "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
+        "horizontal_alignment": "center",
         "vertical_alignment": "flex-start",
         "align_baseline": false,
         "horizontal_alignment_flex_direction_column": "flex-start",

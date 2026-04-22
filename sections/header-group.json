@@ -81,7 +81,8 @@
         }
       },
       "custom_css": [
-        ".menu-drawer__menu-item {font-size: 1.25rem;}"
+        ".menu-drawer__menu-item {font-size: 1.25rem;}",
+        ".header-logo__image-container {background-color: white; padding: 10px; border-radius: 20px}"
       ],
       "settings": {
         "logo_position": "left",
