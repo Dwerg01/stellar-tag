@@ -113,7 +113,7 @@
         "button_H9gpTf"
       ],
       "custom_css": [
-        "video {width: clamp(350px, 60%, 600px); aspect-ratio: 1/1; height: auto; margin: 20px auto;}",
+        "video {width: clamp(350px, 60%, 600px); aspect-ratio: 1/1; height: auto; margin: 20px auto; border-radius: 32px;}",
         "@media screen and (max-width: 750px) {video {margin-top: 7dvh; }}"
       ],
       "name": "t:names.hero",
@@ -610,7 +610,7 @@
         "border_opacity": 100,
         "border_radius": 0,
         "toggle_overlay": true,
-        "overlay_color": "#ffffffaa",
+        "overlay_color": "#ffffffab",
         "overlay_style": "solid",
         "gradient_direction": "to top",
         "padding-block-start": 100,
@@ -1511,7 +1511,7 @@
             "aspect_ratio": "adapt",
             "constrain_to_viewport": true,
             "media_fit": "contain",
-            "media_radius": 0,
+            "media_radius": 32,
             "extend_media": false,
             "zoom": true,
             "video_loop": false,
