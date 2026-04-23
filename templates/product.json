@@ -469,6 +469,9 @@
           ]
         }
       },
+      "custom_css": [
+        ".product-media__image {border-block: 4px solid #f6740b; padding: 30px 0px; border-radius: 24px ;}"
+      ],
       "settings": {
         "content_width": "content-center-aligned",
         "desktop_media_position": "left",
