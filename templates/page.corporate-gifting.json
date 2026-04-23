@@ -496,26 +496,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "button_9pG7iD": {
-              "type": "button",
-              "settings": {
-                "label": "Shop now",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
             }
           },
           "block_order": [
             "text_bNPqmb",
-            "text_Tpx3rB",
-            "button_9pG7iD"
+            "text_Tpx3rB"
           ]
         }
       },
@@ -524,13 +509,13 @@
         "group_RBKhYR"
       ],
       "custom_css": [
-        "strong {color: #f6740b; }"
+        "strong {color: #f6740b;}"
       ],
       "name": "t:names.image_with_text",
       "settings": {
         "content_direction": "row",
         "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
+        "horizontal_alignment": "center",
         "vertical_alignment": "center",
         "align_baseline": false,
         "horizontal_alignment_flex_direction_column": "flex-start",
@@ -647,26 +632,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "button_34jeEK": {
-              "type": "button",
-              "settings": {
-                "label": "Shop now",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
             }
           },
           "block_order": [
             "text_yhMVHG",
-            "text_FJAQHw",
-            "button_34jeEK"
+            "text_FJAQHw"
           ]
         },
         "image_bzfwta": {
@@ -703,7 +673,7 @@
       "settings": {
         "content_direction": "row",
         "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
+        "horizontal_alignment": "center",
         "vertical_alignment": "center",
         "align_baseline": false,
         "horizontal_alignment_flex_direction_column": "flex-start",
