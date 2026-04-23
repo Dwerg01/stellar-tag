@@ -530,6 +530,9 @@
         "text_fQKgtV",
         "accordion_UPt9ag"
       ],
+      "custom_css": [
+        "summary {border: 1px solid green;}"
+      ],
       "name": "t:names.faq_section",
       "settings": {
         "content_direction": "row",
