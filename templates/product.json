@@ -470,7 +470,7 @@
         }
       },
       "custom_css": [
-        ".product-media__image {border-block: 4px solid #f6740b; padding: 30px 0px; border-radius: 24px ;}"
+        ".media-fit-cover {border-block: 4px solid #f6740b; padding: 30px 0px; border-radius: 24px;}"
       ],
       "settings": {
         "content_width": "content-center-aligned",
@@ -966,7 +966,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<p>Zero Infrastructure Required</p>",
+                "text": "<p>Zero Infrastructure</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
