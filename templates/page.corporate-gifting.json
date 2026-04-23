@@ -366,6 +366,9 @@
       "block_order": [
         "forms_inline_XQrThM"
       ],
+      "custom_css": [
+        "._inline_1q1d2_47 {border-block: 4px solid #f6740b;padding: 30px 0px;border-radius: 24px;}"
+      ],
       "settings": {
         "content_direction": "column",
         "vertical_on_mobile": true,
