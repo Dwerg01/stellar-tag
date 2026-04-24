@@ -531,7 +531,7 @@
         "accordion_UPt9ag"
       ],
       "custom_css": [
-        "summary {border: 1px solid green;}"
+        "summary:not(:last-of-type) {border-bottom: 1px solid green;}"
       ],
       "name": "t:names.faq_section",
       "settings": {
