@@ -95,7 +95,7 @@
           "name": "t:names.button",
           "settings": {
             "label": "Buy Now",
-            "link": "shopify://collections/all",
+            "link": "shopify://products/stellar-tag",
             "open_in_new_tab": false,
             "style_class": "button",
             "width": "fit-content",
