@@ -531,7 +531,7 @@
         "accordion_UPt9ag"
       ],
       "custom_css": [
-        "accordion-custom {border: 1px solid green;}"
+        "accordion-custom {border-bottom: 1px solid green;}"
       ],
       "name": "t:names.faq_section",
       "settings": {
