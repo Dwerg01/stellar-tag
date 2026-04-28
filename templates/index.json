@@ -1756,7 +1756,7 @@
         }
       },
       "custom_css": [
-        ".media-fit-cover {border-block: 4px solid #f6740b; padding: 30px 0px; border-radius: 24px;}"
+        "slideshow-container {border-block: 4px solid #f6740b; border-radius: 24px;}"
       ],
       "name": "t:names.featured_product_information",
       "settings": {
