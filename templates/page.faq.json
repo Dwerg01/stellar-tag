@@ -532,7 +532,7 @@
       ],
       "custom_css": [
         "details {border-bottom: 1px solid #f6740b;}",
-        ".accordion {border-block: 4px solid #f6740b; padding: 30px 0px; border-radius: 24px;}"
+        ".accordion {border-block-start: 4px solid #f6740b; padding: 30px 0px; border-radius: 24px;}"
       ],
       "name": "t:names.faq_section",
       "settings": {
