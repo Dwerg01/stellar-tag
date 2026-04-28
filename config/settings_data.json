@@ -90,7 +90,7 @@
           "background": "{{ shop.brand.colors.secondary[0].background }}",
           "foreground_heading": "{{ shop.brand.colors.primary[0].background }}",
           "foreground": "#000000",
-          "primary": "#000000cf",
+          "primary": "{{ shop.brand.colors.primary[0].background }}",
           "primary_hover": "{{ shop.brand.colors.primary[0].foreground }}",
           "border": "#0000000f",
           "shadow": "{{ shop.brand.colors.secondary[1].background }}",
