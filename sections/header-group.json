@@ -82,7 +82,7 @@
       },
       "custom_css": [
         ".menu-drawer__menu-item {font-size: 1.25rem;}",
-        ".header-logo__image-container {background-color: white; padding: 20px; border-radius: 20px;}"
+        ".header-logo__image-container {background-color: white; padding: 20px; border-radius: 20px; border-block-start: 4px solid #f6740b;}"
       ],
       "settings": {
         "logo_position": "left",
@@ -109,7 +109,7 @@
         "actions_font_size": "0.875rem",
         "actions_font": "body",
         "actions_text_case": "none",
-        "color_scheme_top": "scheme-1",
+        "color_scheme_top": "scheme-5",
         "color_scheme_bottom": "",
         "color_scheme_transparent": "scheme-5",
         "enable_transparent_header_home": false,
