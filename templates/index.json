@@ -453,7 +453,7 @@
         "group_KXcNew"
       ],
       "custom_css": [
-        ".group-block {border-block: 4px solid #f6740b; padding: 30px 0px; border-radius: 24px; max-width: 768px;}"
+        ".group-block {border-block-start: 4px solid #f6740b; padding: 30px 0px; border-radius: 24px; max-width: 768px;}"
       ],
       "name": "t:names.multicolumn",
       "settings": {
@@ -954,7 +954,7 @@
       ],
       "custom_css": [
         "svg {fill: #0a3161; stroke: #0a3161; stroke-width: 0.25px;}",
-        ".group-block {border-block: 4px solid #f6740b; padding: 30px 0px; border-radius: 24px; max-width: 768px;}"
+        ".group-block {border-block-start: 4px solid #f6740b; padding: 30px 0px; border-radius: 24px; max-width: 768px;}"
       ],
       "name": "t:names.multicolumn",
       "settings": {
@@ -1215,7 +1215,7 @@
       ],
       "custom_css": [
         "svg {fill: #0a3161; stroke: #0a3161; stroke-width: 0.25px;}",
-        ".group-block {border-block: 4px solid #f6740b; padding: 30px 0px; border-radius: 24px;}"
+        ".group-block {border-block-start: 4px solid #f6740b; padding: 30px 0px; border-radius: 24px;}"
       ],
       "name": "t:names.multicolumn",
       "settings": {
@@ -1476,7 +1476,7 @@
       ],
       "custom_css": [
         "svg {fill: #0a3161; stroke: #0a3161; stroke-width: 0.25px;}",
-        ".group-block {border-block: 4px solid #f6740b; padding: 30px 0px; border-radius: 24px;}"
+        ".group-block {border-block-start: 4px solid #f6740b; padding: 30px 0px; border-radius: 24px;}"
       ],
       "name": "t:names.multicolumn",
       "settings": {
