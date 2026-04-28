@@ -470,7 +470,7 @@
         }
       },
       "custom_css": [
-        ".media-fit-cover {border-block: 4px solid #f6740b; padding: 30px 0px; border-radius: 24px;}"
+        ".media-fit-cover {border-block-start: 4px solid #f6740b; padding: 30px 0px; border-radius: 24px;}"
       ],
       "settings": {
         "content_width": "content-center-aligned",
@@ -1055,8 +1055,8 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
-        "padding-block-start": 48,
-        "padding-block-end": 48
+        "padding-block-start": 100,
+        "padding-block-end": 100
       }
     },
     "hero_Dcr3Q9": {
@@ -1238,7 +1238,8 @@
       ],
       "custom_css": [
         "strong {color: var(--color-primary-button-background);}",
-        "h1 {color: var(--color-primary); font-weight: 800;}"
+        "h1 {color: var(--color-primary); font-weight: 800;}",
+        " {border-block-start: 4px solid #f6740b; padding: 30px 0px; border-radius: 24px;}"
       ],
       "name": "t:names.hero_bottom_aligned",
       "settings": {
