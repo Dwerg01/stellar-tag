@@ -31,7 +31,7 @@
             "background": false,
             "background_color": "#00000026",
             "corner_radius": 0,
-            "padding-block-start": 100,
+            "padding-block-start": 0,
             "padding-block-end": 0,
             "padding-inline-start": 0,
             "padding-inline-end": 0
@@ -114,6 +114,7 @@
       ],
       "custom_css": [
         "video {object-fit: contain; height: 50%; width: fit-content; aspect-ratio: 1/1; margin: 20px auto; border-radius: 32px; border-block: 4px solid #f6740b; border-radius: 24px;}",
+        "h1 {margin-bottom: -20px;}",
         "@media screen and (max-width: 750px) {video {margin-top: 7dvh; }}"
       ],
       "name": "t:names.hero",
@@ -134,7 +135,7 @@
         "align_baseline": false,
         "horizontal_alignment_flex_direction_column": "center",
         "vertical_alignment_flex_direction_column": "flex-end",
-        "gap": 6,
+        "gap": 20,
         "section_width": "page-width",
         "section_height": "full-screen",
         "section_height_custom": 50,
