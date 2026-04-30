@@ -12,6 +12,30 @@
     "hero_jVaWmY": {
       "type": "hero",
       "blocks": {
+        "video_qkTBXt": {
+          "type": "video",
+          "name": "t:names.video",
+          "disabled": true,
+          "settings": {
+            "source": "uploaded",
+            "video": "shopify://files/videos/Stellar_Tag_360Animation.mp4",
+            "video_autoplay": false,
+            "video_loop": true,
+            "alt": "",
+            "custom_width": 100,
+            "custom_width_mobile": 100,
+            "aspect_ratio": "auto",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
         "text_YLPk4p": {
           "type": "text",
           "name": "t:names.heading",
@@ -107,6 +131,7 @@
         }
       },
       "block_order": [
+        "video_qkTBXt",
         "text_YLPk4p",
         "text_7zWwxk",
         "text_mAmaNF",
