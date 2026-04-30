@@ -113,7 +113,7 @@
         "button_H9gpTf"
       ],
       "custom_css": [
-        "video {width: clamp(350px, 60%, 600px); aspect-ratio: 1/1; height: auto; margin: 20px auto; border-radius: 32px; border-block: 4px solid #f6740b; border-radius: 24px;}",
+        "video {width: clamp(350px, 60%, 600px); object-fit: contain; height: 50%; aspect-ratio: 1/1; margin: 20px auto; border-radius: 32px; border-block: 4px solid #f6740b; border-radius: 24px;}",
         "@media screen and (max-width: 750px) {video {margin-top: 7dvh; }}"
       ],
       "name": "t:names.hero",
