@@ -87,6 +87,11 @@
     "blocks": {
       "4335028968536508377": {
         "type": "shopify://apps/uppush-order-limit/blocks/uppush-order-limit/ca40887b-827e-4555-9209-0b817b582223",
+        "disabled": true,
+        "settings": {}
+      },
+      "13768625480086291342": {
+        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
         "disabled": false,
         "settings": {}
       }
