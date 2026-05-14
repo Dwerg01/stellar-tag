@@ -106,7 +106,7 @@ export class QuantitySelectorComponent extends Component {
     }
     quantityInput.step = step;
 
-    const newMin = parseIntOrDefault(min, 5);
+    const newMin = parseIntOrDefault(min, 1);
     const newStep = parseIntOrDefault(step, 1);
     const effectiveMax = this.getEffectiveMax();
 
